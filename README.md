@@ -75,7 +75,14 @@ I'm **Mohamed Ghanem**, a Full-Stack Developer & Software Engineer from Egypt. I
 <!--RECENT:START-->
 | Project | What it is | Stack | Updated |
 |---|---|---|---|
-| _will fill itself after the first workflow run_ | | | |
+| [**hilink-control**](https://github.com/mohamedghanem-dev/hilink-control) | — | `Dart` | 2026-09-27 |
+| [**nt-code**](https://github.com/mohamedghanem-dev/nt-code) | — | `TypeScript` | 2026-09-22 |
+| [**lecture-ai**](https://github.com/mohamedghanem-dev/lecture-ai) | — | `Kotlin` | 2026-09-20 |
+| [**nitrocode-mobile**](https://github.com/mohamedghanem-dev/nitrocode-mobile) | — | `TypeScript` | 2026-09-08 |
+| [**opencode**](https://github.com/mohamedghanem-dev/opencode) | The open source coding agent. | `TypeScript` | 2026-09-07 |
+| [**drive-cars**](https://github.com/mohamedghanem-dev/drive-cars) | — | `Dart` | 2026-09-04 |
+| [**eve-slack-agent**](https://github.com/mohamedghanem-dev/eve-slack-agent) | — | `TypeScript` | 2026-09-01 |
+| [**n8n-render**](https://github.com/mohamedghanem-dev/n8n-render) | — | `Dockerfile` | 2026-08-18 |
 <!--RECENT:END-->
 
 ---
