@@ -75,6 +75,7 @@ I'm **Mohamed Ghanem**, a Full-Stack Developer & Software Engineer from Egypt. I
 <!--RECENT:START-->
 | Project | What it is | Stack | Updated |
 |---|---|---|---|
+| [**Education-center-crm**](https://github.com/mohamedghanem-dev/Education-center-crm) | — | `—` | 2026-11-05 |
 | [**Gemini**](https://github.com/mohamedghanem-dev/Gemini) | — | `Java` | 2026-10-14 |
 | [**hilink-control**](https://github.com/mohamedghanem-dev/hilink-control) | — | `Dart` | 2026-09-27 |
 | [**nt-code**](https://github.com/mohamedghanem-dev/nt-code) | — | `TypeScript` | 2026-09-22 |
@@ -82,7 +83,6 @@ I'm **Mohamed Ghanem**, a Full-Stack Developer & Software Engineer from Egypt. I
 | [**nitrocode-mobile**](https://github.com/mohamedghanem-dev/nitrocode-mobile) | — | `TypeScript` | 2026-09-08 |
 | [**opencode**](https://github.com/mohamedghanem-dev/opencode) | The open source coding agent. | `TypeScript` | 2026-09-07 |
 | [**drive-cars**](https://github.com/mohamedghanem-dev/drive-cars) | — | `Dart` | 2026-09-04 |
-| [**eve-slack-agent**](https://github.com/mohamedghanem-dev/eve-slack-agent) | — | `TypeScript` | 2026-09-01 |
 <!--RECENT:END-->
 
 ---
