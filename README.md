@@ -75,7 +75,7 @@ I'm **Mohamed Ghanem**, a Full-Stack Developer & Software Engineer from Egypt. I
 <!--RECENT:START-->
 | Project | What it is | Stack | Updated |
 |---|---|---|---|
-| [**Education-center-crm**](https://github.com/mohamedghanem-dev/Education-center-crm) | — | `—` | 2026-11-05 |
+| [**Education-center-crm**](https://github.com/mohamedghanem-dev/Education-center-crm) | — | `TypeScript` | 2026-11-05 |
 | [**Gemini**](https://github.com/mohamedghanem-dev/Gemini) | — | `Java` | 2026-10-14 |
 | [**hilink-control**](https://github.com/mohamedghanem-dev/hilink-control) | — | `Dart` | 2026-09-27 |
 | [**nt-code**](https://github.com/mohamedghanem-dev/nt-code) | — | `TypeScript` | 2026-09-22 |
